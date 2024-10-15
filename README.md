@@ -29,7 +29,7 @@ Voici un mock-up de l'écran de la bibliothèque :
 
 - **Mock-up bibliothèque :**
   
-  ![Mock-up biblio](./images/Mock%20up%20biblio.png)
+  ![Mock-up biblio](./images/Mock_up_biblio.png)
 
 ### 3. Parcours utilisateur pour emprunter un livre
 
