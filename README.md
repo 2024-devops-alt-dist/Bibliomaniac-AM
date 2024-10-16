@@ -21,9 +21,9 @@ Voici un aperçu des différents écrans recréés :
   
   ![Wireframe desktop](./images/Wireframe_biblio_desktop.png)
 
-### 2. Prototypage pour desktop
+### 2. Prototypage mobile
 
-Deux des six écrans ont été déclinés pour un usage sur desktop, en prenant en compte les particularités de cette plateforme, comme l'ergonomie et la disposition des éléments.
+Six écrans ont été déclinés pour un usage sur mobile, en prenant en compte les particularités de cette plateforme, comme l'ergonomie et la disposition des éléments.
 
 Voici un mock-up de l'écran de la bibliothèque :
 
@@ -54,3 +54,9 @@ Clonez le dépôt pour explorer les fichiers du projet localement :
 ```bash
 git clone https://github.com/2024-devops-alt-dist/Bibliomaniac-AM
 cd Bibliomaniac-AM
+```
+## Liens
+
+Figma (Wireframe et Mock-Up) : https://www.figma.com/design/F3YpgO2ihTVI9VHs5cfIXR/Biblioth%C3%A8que-Num%C3%A9rique-%22Bibliomaniac%22?node-id=10-766&t=pATO2nVDUH0WYskl-1
+
+FigJam (Diagramme d'activité) : https://www.figma.com/board/7RHzxBr1D92guHGIXe4Rk2/Activity-Diagram-%22Bibliomaniac%22?node-id=0-1&t=pATO2nVDUH0WYskl-1
